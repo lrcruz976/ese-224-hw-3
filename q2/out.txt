@@ -1,0 +1,3 @@
+food total: 17877.9
+transport total: 5564.99
+entertainment total: 9191.57
